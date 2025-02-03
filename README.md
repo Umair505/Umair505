@@ -18,10 +18,10 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%">
 
-### 🎯 2024 & 2025 Goals
+### 🎯 2025 & 2026 Goals
 
-- 🥅 **2025**: Start my **Software Development** journey, become a `Specialist` at Codeforces, and reach `3`⭐ at CodeChef.  
-- 🥅 **2025** (In Sha Allah): Solve `1000+` problems on Codeforces.  
+- 🥅 **2025**: Start my **Software Development** journey, become a `Pupil` at Codeforces, and reach `3`⭐ at CodeChef.  
+- 🥅 **2025** (In Sha Allah): Solve `500+` problems on Codeforces.  
 - 🥅 **2026** (In Sha Allah): Become a **Software Engineer** and land a **job**.  
 
 ---
@@ -59,11 +59,6 @@
 	    <a href="https://github.com/Umair505">
 	        <img alt="Umair's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umair505?cardType=level&theme=blueberry&preferLogin=true&hide_border=false" />
 	    </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Umair505">
-        <img alt="Umair's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=tokyonight&hide_border=true" height="180px" width="100%">
-      </a>
     </td>
   </tr>
 </table>
