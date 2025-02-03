@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Moinul Islam Umair! 👋</h1>
+# <h1 align="center">Assalamu Alaikum, I'm Moinul Islam Umair! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Umair505">
@@ -10,88 +10,67 @@
 
 ## 🔥 About Me  
 
-🔭 I'm currently focused on becoming a **full-stack developer**.  
-🌱 Exploring **advanced algorithms & frameworks** to enhance my coding abilities.  
-👯 Excited to **collaborate on open-source projects** and contribute to the tech community.  
-💬 Ask me about **Competitive Programming (CP), Django, REST APIs, and full-stack development**.  
-⚡ **Fun Fact**: I started with **online gadget business**, which sharpened my **client & time management skills**.  
+- 🔭 Currently focused on becoming a **full-stack developer**.  
+- 🌱 Exploring **advanced algorithms & frameworks** to enhance my coding abilities.  
+- 👯 Excited to **collaborate on open-source projects** and contribute to the tech community.  
+- 💬 Ask me about **Competitive Programming (CP), Django, REST APIs, and full-stack development**.  
+- ⚡ **Fun Fact**: I started with an **online gadget business**, which sharpened my **client & time management skills**.  
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%">
+
+### 🎯 2024 & 2025 Goals
+
+- 🥅 **2025**: Start my **Software Development** journey, become a `Specialist` at Codeforces, and reach `3`⭐ at CodeChef.  
+- 🥅 **2025** (In Sha Allah): Solve `1000+` problems on Codeforces.  
+- 🥅 **2026** (In Sha Allah): Become a **Software Engineer** and land a **job**.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Tech Stacks
 
-<table>
+| **Languages** | **Frontend** | **Backend** | **Database** |
+|--------------|-------------|------------|------------|
+| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
+
+## 🔹 Tools I Use
+
+| **Tools** |
+|-----------|
+| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools" /> |
+
+---
+
+## 📊 Github Stats
+
+<table align="center">
   <tr>
-    <th>Languages</th>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Skills</th>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umair505&theme=blueberry" height="180px" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="180px" width="100%">
+    </td>
   </tr>
+</table>
+
+<table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+	    <a href="https://github.com/Umair505">
+	        <img alt="Umair's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umair505?cardType=level&theme=blueberry&preferLogin=true&hide_border=false" />
+	    </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/DaisyUI-5A0FC8?style=for-the-badge&logo=daisyui&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    </td>
-    <td align="center">
-      🚀 Full-Stack Development <br>
-      🎨 UI/UX Design <br>
-      🛠 REST API Development <br>
-      ⚡ Competitive Programming <br>
-      🏗️ Project Management  
+      <a href="https://github.com/Umair505">
+        <img alt="Umair's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=tokyonight&hide_border=true" height="180px" width="100%">
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Tools I Use  
-
-<table>
-  <tr>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Pixso-800080?style=for-the-badge&logo=adobe-xd&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/OnRender-0468D7?style=for-the-badge&logo=render&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Umair505&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=radical" />
-</p>
-
----
-
-## 🌍 Connect With Me  
+## 📬 Reach Me Out  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moinul505/" target="_blank">
@@ -115,4 +94,4 @@
 
 ---
 
-**⭐ Star my repositories if you find them helpful!** 🚀  
+**⭐ Star my repositories if you find them helpful!** 🚀
