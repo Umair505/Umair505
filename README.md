@@ -56,8 +56,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=blueberry&hide_border=true&v=1)
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
