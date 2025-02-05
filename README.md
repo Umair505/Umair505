@@ -53,8 +53,10 @@
   </tr>
 </table>
 
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=blueberry" />
+  <img src="https://streak-stats.demolab.com?user=Umair505&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
