@@ -36,11 +36,11 @@
 
 | **Tools** |
 |-----------|
-| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" alt="tools" /> |
 
 ---
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -52,6 +52,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=blueberry" />
+</p>
+
+---
 
 <table align="center">
   <tr>
