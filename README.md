@@ -40,36 +40,25 @@
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umair505&theme=blueberry" height="180px" width="100%">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="180px" width="100%">
-    </td>
-  </tr>
-</table>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-### 🔥 GitHub Streak
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair505&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-	    <a href="https://github.com/Umair505">
-	        <img alt="Umair's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umair505?cardType=level&theme=blueberry&preferLogin=true&hide_border=false" />
-	    </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+ <h1>Visitor count</h1>
+
+![Visitor Count](https://profile-counter.glitch.me/{Umair505}/count.svg)
+</div>
+
+---
+
 
 ---
 
@@ -85,14 +74,6 @@
   <a href="https://www.facebook.com/moinul.islam.umair.2024">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
-
----
-
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umair505&label=Visitors&color=0e75b6&style=flat" />
 </p>
 
 ---
