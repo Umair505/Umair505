@@ -65,13 +65,14 @@
   </p>
 
   <p>
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="120px" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpmMWpxZjdhZmU0eWU2eDVqaXRvdTd3dXNwdGpxNjNta3ZnMGgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzK9v6JaNsACc/giphy.gif" width="150px" />
   </p>
   
   <p><b>Salam Bro! 🤗</b></p>
   <p><i>Whoa, you made it this far! 🚀</i></p>
   <p><i>Since you're already here... why not leave a ⭐ on my repos? It keeps my code happy and my coffee strong! ☕😆</i></p>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
