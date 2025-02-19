@@ -6,7 +6,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🔥 About Me  
 
@@ -24,7 +24,7 @@
 - 🥅 **2025** (In Sha Allah): Solve `500+` problems on Codeforces.  
 - 🥅 **2026** (In Sha Allah): Become a **Software Engineer** and land a **job**.  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🚀 Tech Stacks
 
@@ -38,7 +38,7 @@
 |-----------|
 | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" alt="tools" /> |
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -56,23 +56,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
----
 
 <div align="center">
- <h1>Visitor count</h1>
+  <h1>👀 Visitor Count</h1>
   
   <p>
     <img src="https://profile-counter.glitch.me/Umair505/count.svg" alt="Visitor Count" />
   </p>
 
   <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="120px" />
   </p>
+  
+  <p><b>Salam Bro! 🤗</b></p>
+  <p><i>Whoa, you made it this far! 🚀</i></p>
+  <p><i>Since you're already here... why not leave a ⭐ on my repos? It keeps my code happy and my coffee strong! ☕😆</i></p>
 </div>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📬 Reach Me Out  
 
