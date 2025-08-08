@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github.com/Umair505/Umair505/blob/main/bannerGithub.png" />
+  <img src="https://github.com/Umair505/Umair505/blob/main/bannerGithub.png" alt="Moinul Islam Umair Banner" />
 </div>
 
-# <h1 align="center">Assalamu Alaikum, I'm Moinul Islam Umair! 👋</h1>
+<h1 align="center">Assalamu Alaikum, I'm Moinul Islam Umair! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Umair505">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Building+Solutions+with+Code" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Building+Solutions+with+Code" alt="Typing SVG" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
 
 ## 🌟 About Me  
 
@@ -20,7 +20,7 @@
 - 🛒 Former online entrepreneur - gained valuable **business and client management** experience
 - ☕ Coffee enthusiast who believes in *"Code first, debug later"* philosophy
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25%" alt="Coding Animation">
 
 ### 📅 Goals & Aspirations
 
@@ -29,9 +29,11 @@
 - 💼 Land a **Software Engineering position** at a reputable company
 - 🌱 Continuously grow both **technically and spiritually**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
 
 ## 🛠️ Technical Stack
+
+<div align="center">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,54 +52,54 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
 
-<p align="center">
-  <!-- Streak Stats - Customized for perfect contrast -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Umair505&theme=radical&hide_border=true&background=7300BA&fire=FFC300&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&ring=FFC300&stroke=FFFFFF" />
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
 
-<p align="center">
-  <!-- Language Stats - Enhanced readability -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&hide_border=true&layout=compact&theme=radical&bg_color=7300BA&title_color=FFC300&text_color=FFFFFF&icon_color=FFC300" />
-</p>
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Umair505&theme=radical&border_radius=5)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair505&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umair505&show_icons=true&theme=radical&hide_border=true)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
-## 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/moinul505/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:moinuli359@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/moinul.islam.umair.505">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moinul505/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moinuli359@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moinul.islam.umair.505)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umair505)
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" height="60" alt="Connect with me"> 
+  
+</div>
 
 ---
 
@@ -105,8 +107,10 @@
   <p>✨ <i>"Verily, with hardship comes ease."</i> (Quran 94:5) ✨</p>
   <p>Code with ihsan and debug with sabr - for your skills are an amanah from Allah, and He loves those who perfect their work to serve humanity</p>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk4bGx0eXJ4Z2VtNnR5ZzB5ZzV6ZzV6ZzV6ZzV6ZzV6ZzV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk4bGx0eXJ4Z2VtNnR5ZzB5ZzV6ZzV6ZzV6ZzV6ZzV6ZzV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px" alt="Coding GIF" />
   
   <p><b>Shukran for visiting my profile! May Allah bless your coding journey. 🤲</b></p>
   <p><i>If you find my work valuable, consider starring ⭐ some repositories!</i></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Umair505&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
